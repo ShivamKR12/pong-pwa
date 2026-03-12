@@ -1,0 +1,16 @@
+{
+  "name": "Snow Guardians",
+  "short_name": "Snow Guardians",
+  "start_url": "/snow_guardians/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "/snow_guardians/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
