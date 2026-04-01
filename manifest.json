@@ -1,14 +1,14 @@
 {
   "name": "Pong",
   "short_name": "Pong",
-  "start_url": "/web/index.html",
+  "start_url": "/pong-pwa/index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
   "orientation": "landscape-primary",
   "icons": [
     {
-      "src": "/web/favicon.png",
+      "src": "/pong-pwa/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
