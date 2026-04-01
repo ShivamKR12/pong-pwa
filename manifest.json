@@ -1,7 +1,9 @@
 {
   "name": "Pong",
   "short_name": "Pong",
+  "id": "/pong-pwa/",
   "start_url": "/pong-pwa/index.html",
+  "scope": "/pong-pwa/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
